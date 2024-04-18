@@ -1,6 +1,6 @@
 FROM alpine:3.19.1
-ENV FTP_USER=foo \
-	FTP_PASS=bar \
+ENV FTP_USER=jrodriguezt \
+	FTP_PASS=12345aA! \
 	GID=1000 \
 	UID=1000
 
